@@ -1,7 +1,7 @@
 # TikTok iOS免拔卡使用，tiktok ios ipa 旧版下载
 ### 最新版的TikTok暂时不支持免拔卡使用，需要下载旧版。
 ### 操作步骤<br>
-1、下载 tiktok ios ipa 旧版<br>
+1、<a href="itms-services://?action=download-manifest&url=https://github.com/eujc/TikTok/releases/download/tiktokios/ipa.plist" target="_blank">下载 tiktok ios ipa 旧版</a><br>
 
 2、下载 Shadowrocket<br>
 
