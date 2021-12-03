@@ -23,9 +23,7 @@
 
 4、<a href="http://a.ssv2ray.com/tiktok6.html" target="_blank">下载 tiktok ios ipa 旧版 点击下载>></a><br>
 
-5、打开Shadowrocket，开启科学上网。<br>
-
-6、打开TikTok App 即可实现免拔卡看，可以登录，评论。
+5、打开TikTok App 即可实现免拔卡看，可以登录，评论。
 
 ### 如何更改国家和地区：
 默认是日本区，可以更改这行代码中的JP (?<=_region=)CN(?=&) JP 307<br>
