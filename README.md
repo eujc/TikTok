@@ -21,7 +21,7 @@
 
 3、在Shadowrocket添加节点。<br>
 
-4、<a href="http://a.ssv2ray.com/tiktok6.html" target="_blank">下载 tiktok ios ipa 旧版 点击下载>></a><br>
+4、<a href="https://github.com/kjfx/ios-tiktok-ipa" target="_blank">下载 tiktok ios ipa 旧版 点击下载>></a><br>
 
 5、打开TikTok App 即可实现免拔卡看，可以登录，评论。<br>
 
